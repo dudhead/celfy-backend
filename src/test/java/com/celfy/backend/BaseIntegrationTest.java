@@ -1,4 +1,4 @@
-package com.xname.appname;
+package com.celfy.backend;
 
 import static com.jayway.restassured.RestAssured.given;
 

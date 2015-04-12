@@ -1,13 +1,13 @@
-package com.xname.appname.integration;
+package com.celfy.backend.integration;
 
 import static com.jayway.restassured.RestAssured.given;
 import static org.junit.Assert.assertNotNull;
 
 import org.junit.Test;
 
+import com.celfy.backend.BaseIntegrationTest;
 import com.jayway.restassured.response.Response;
 import com.jayway.restassured.specification.RequestSpecification;
-import com.xname.appname.BaseIntegrationTest;
 
 public class AuthorizationTests extends BaseIntegrationTest {
 

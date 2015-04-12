@@ -1,4 +1,4 @@
-package com.xname.appname;
+package com.celfy.backend;
 
 import static org.springframework.test.web.client.response.MockRestResponseCreators.withSuccess;
 

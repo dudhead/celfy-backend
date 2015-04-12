@@ -1,4 +1,4 @@
-package com.xname.appname;
+package com.celfy.backend;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

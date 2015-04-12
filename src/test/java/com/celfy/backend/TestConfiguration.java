@@ -1,4 +1,4 @@
-package com.xname.appname;
+package com.celfy.backend;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
