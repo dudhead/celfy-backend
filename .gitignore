@@ -12,3 +12,14 @@
 hs_err_pid*
 /bin/
 /build/
+
+
+#Eclipse
+.classpath
+.project
+.settings/
+.gradle/
+
+
+#logs
+*.log
